@@ -1,0 +1,7 @@
+{
+    "sketch": "arduino/bt_demo.cpp",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "port": "/dev/cu.usbserial-1460",
+    "programmer": "AVR ISP"
+}
